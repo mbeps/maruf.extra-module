@@ -1,0 +1,21 @@
+{
+    "name": "extra-extension-pack",
+    "displayName": "Extra Extension Pack",
+    "description": "Contains extensions that are not required but are nice to have",
+	"publisher": "Maruf",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "esbenp.prettier-vscode",
+		"hediet.debug-visualizer",
+		"markis.code-coverage",
+		"selcuk-usta.code-complexity-report-generator",
+		"trunk.io",
+		"mintlify.document"
+    ]
+}
