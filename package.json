@@ -1,6 +1,6 @@
 {
-    "name": "extra-extension-pack",
-    "displayName": "Extra Extension Pack",
+    "name": "extra-module",
+    "displayName": "Extra Module",
     "description": "Contains extensions that are not required but are nice to have",
 	"publisher": "Maruf",
     "version": "0.0.1",
