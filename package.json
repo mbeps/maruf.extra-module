@@ -15,6 +15,9 @@
 		"markis.code-coverage",
 		"selcuk-usta.code-complexity-report-generator",
 		"trunk.io",
-		"mintlify.document"
+		"mintlify.document",
+        "formulahendry.code-runner",
+        "cweijan.vscode-database-client2",
+        "rangav.vscode-thunder-client"
     ]
 }
