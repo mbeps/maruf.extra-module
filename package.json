@@ -19,7 +19,7 @@
 		"mintlify.document",
         "formulahendry.code-runner",
         "cweijan.vscode-database-client2",
-        "rangav.vscode-thunder-client",
+        "RapidAPI.vscode-rapidapi-client",
         "axetroy.vscode-package-manager"
     ]
 }
