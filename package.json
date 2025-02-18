@@ -3,7 +3,7 @@
     "displayName": "Extra Module",
     "description": "Contains extensions that are not required but are nice to have",
     "publisher": "Maruf",
-    "version": "0.0.4",
+    "version": "5.0.0",
     "repository": "https://github.com/mbeps/maruf.extra-module",
     "engines": {
         "vscode": "^1.68.0"
@@ -15,8 +15,9 @@
         "hediet.debug-visualizer",
         "selcuk-usta.code-complexity-report-generator",
         "trunk.io",
-        "cweijan.vscode-database-client2",
         "axetroy.vscode-package-manager",
-        "rangav.vscode-thunder-client"
+        "dbcode.dbcode",
+        "VASubasRaj.flashpost",
+        "EchoAPI.echoapi-for-vscode"
     ]
 }
